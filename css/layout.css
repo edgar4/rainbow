@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+
+.container {
+   /* border-top: 5px solid #fff;*/
+    height: 357px;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+}
+.content {
+    margin:0 auto;
+    width:501px;
+}

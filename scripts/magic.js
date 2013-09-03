@@ -1,0 +1,2 @@
+
+(function(g,b,h,e,c){var a=a||[];a.push(["_setAccount","UA-27609226-1"]);a.push(["_setDomainName","jssor.com"]);a.push(["_trackPageview"]);(function(){var a=b.createElement("script");a.type="text/javascript";a.async=c;a.src=("https:"==b.location.protocol?"https://ssl":"http://www")+".google-analytics.com/ga.js";var d=b.getElementsByTagName("script")[0];d.parentNode.insertBefore(a,d)})()})(window,document,Math,null,true,false)// JavaScript Document
